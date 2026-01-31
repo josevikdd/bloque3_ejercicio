@@ -2,4 +2,8 @@
 Rodeado de idiotas
 Mecanoscrit del segon origen.
 Mal de escuela
+<<<<<<< HEAD
 Tomates verdes fritos
+=======
+Harry Potter
+>>>>>>> a2f4c27 (Commit en el directorio clonado añadiendo otro libro a libros.txt)
